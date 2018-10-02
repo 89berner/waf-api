@@ -1,1 +1,1 @@
-# waf-as-a-service
+# waf-api
